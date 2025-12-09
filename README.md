@@ -276,6 +276,13 @@ Once comfortable with the basics, explore:
 - **Pandas Documentation**: [pandas.pydata.org](https://pandas.pydata.org/)
 - **Python Graph Gallery**: [python-graph-gallery.com](https://python-graph-gallery.com/) (visualization examples)
 - **Real Python**: [realpython.com](https://realpython.com/) (tutorials for all levels)
+- **Odum Intro Python**, [github.com/mattwigway/odum-intro-python](https://github.com/mattwigway/odum-intro-python) (the basics)
+- **Transportation Data Science**, [github.com/gregerhardt/ce599](https://github.com/gregerhardt/ce599) (hacking + stats + substance, by Greg Erhardt)
+- **Python for Transportation Modeling**, [pytransport.github.io](https://pytransport.github.io//) (discrete choice, tabular data)
+- **Urban Data Science**, [urbandatascience.its.ucla.edu/](https://urbandatascience.its.ucla.edu) (web scraping, machine learning, big data)
+- **Urban Informatics and Visualization**, [github.com/waddell/urban-informatics-and-visualization](https://github.com/waddell/urban-informatics-and-visualization) (urban planning focus)
+- **Automated GIS Processing**, [autogis-site.readthedocs.io](https://autogis-site.readthedocs.io/en/latest/) (geographic analysis)
+- **Software Carpentry**, [software-carpentry.org/lessons/](https://software-carpentry.org/lessons/) (plus data carpentry and library carpentry)
 
 ---
 
