@@ -1,4 +1,4 @@
-# Python Setup for Data Science
+# Python Setup for Data Science with AI
 
 Welcome! This guide will help you set up a complete Python development environment for data science and statistical analysis.
 
